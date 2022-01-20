@@ -28,7 +28,7 @@ The model extracts the features from the content image and try to fit the style 
 ![](https://github.com/srajan-kiyotaka/Deep-Learning-with-PyTorch-Neural-Style-Transfer-/blob/master/images/sample0.png?raw=true)
 ![](https://github.com/srajan-kiyotaka/Deep-Learning-with-PyTorch-Neural-Style-Transfer-/blob/master/images/output0.png?raw=true)
 
-## **Control Intencity!**
+## **Control Intensity!**
 
 **Here, There are Different Images with Different Intencity, We Can Control The intencity by Changing The Values of The Epochs!**
 
