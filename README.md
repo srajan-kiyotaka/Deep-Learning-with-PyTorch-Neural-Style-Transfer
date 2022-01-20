@@ -46,6 +46,6 @@ The model extracts the features from the content image and try to fit the style 
 
 ![](https://github.com/srajan-kiyotaka/Deep-Learning-with-PyTorch-Neural-Style-Transfer-/blob/master/images/sample6.png?raw=true)
 
-## **Acknowledgements**
+## **Acknowledgement**
 
 - [Guided Project](https://www.coursera.org/learn/deep-learning-with-pytorch-neural-style-transfer)
