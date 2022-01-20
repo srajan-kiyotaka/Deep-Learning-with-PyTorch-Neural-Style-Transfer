@@ -20,8 +20,13 @@ The model extracts the features from the content image and try to fit the style 
 
 ## **More Examples!**
 
-![]()
+![](https://github.com/srajan-kiyotaka/Deep-Learning-with-PyTorch-Neural-Style-Transfer-/blob/master/images/sample3.png?raw=true)
 
+![](https://github.com/srajan-kiyotaka/Deep-Learning-with-PyTorch-Neural-Style-Transfer-/blob/master/images/output2.png?raw=true)
+<hr>
+
+![]()
+![]()
 
 ## **Control Intencity!**
 
@@ -31,7 +36,15 @@ The model extracts the features from the content image and try to fit the style 
 
 ## **More Examples!**
 
-![]()
+![](https://github.com/srajan-kiyotaka/Deep-Learning-with-PyTorch-Neural-Style-Transfer-/blob/master/images/sample4.png?raw=true)
+
+<hr>
+
+![](https://github.com/srajan-kiyotaka/Deep-Learning-with-PyTorch-Neural-Style-Transfer-/blob/master/images/sample5.png?raw=true)
+
+<hr>
+
+![](https://github.com/srajan-kiyotaka/Deep-Learning-with-PyTorch-Neural-Style-Transfer-/blob/master/images/sample6.png?raw=true)
 
 ## **Acknowledgements**
 
