@@ -5,7 +5,7 @@
 
 I used the PyTorch Library, prebuild model to make a Neural Style Transfer.
 <br>
-I used Google Colab to run the code in the GPU at the server.
+I used Google Colab to run the code in the GPU at the server at runtime.
 <br>
 The model extracts the features from the content image and try to fit the style image into the extracted features.
 ## **Visual Representation!**
