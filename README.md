@@ -1,7 +1,7 @@
 
 # **Deep Learning with PyTorch : Neural Style Transfer**
 
-## **About The Project**
+## **Information About The Project**
 
 I used the PyTorch Library, prebuild model to make a Neural Style Transfer.
 <br>
